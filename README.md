@@ -5,7 +5,7 @@
  <br> - [An individual project with HTML, CSS and JavaScript]
    <br>
 <br> <a href="https://github.com/Navindu-Ashen/CareMe-Web-Dashboard"/><b>CareMe Emergency Service Project </b></a> <br> 
-- [It has a Mobile Application and a web dashboard] <br>
+- [It has a Mobile Application and a web dashboard. I did the web dashboard.] <br>
   - [A group project using Flutter SDK, Dart Language, HTML and CSS]
  <br> 
   <br> <a href="https://github.com/Online-Book-Store-Java/Online-Book-Store-"/><b>Online Book ordering Website </b></a>
