@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 <a href="https://genuine-croquembouche-2995da.netlify.app"/><b>Online cake ordering Website </b></a>
- <br> - [An individual project with HTML, CSS and JavaScript]
+ <br> - [An individual project develop with HTML, CSS and JavaScript]
    <br>
 <br> <a href="https://github.com/Navindu-Ashen/CareMe-Web-Dashboard"/><b>CareMe Emergency Service Project </b></a> <br> 
 - [It has a Mobile Application and a web dashboard. I did the web dashboard.] <br>
