@@ -23,7 +23,7 @@
   <br> <br>
   <a href="https://www.figma.com/proto/6AsAvhA1aZ8QKy2rAlH94N/Car-Care-Application?page-id=0%3A1&node-id=148-62&viewport=133%2C252%2C0.15&t=vAUUXjP0uU4bRtaU-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=1%3A3"/><b> Elite AutoCare Mobile Application</b></a>
   <h2> Industry issues and provide solutions:</h2>
-  <a href=""/><b>Online Food ordering Website </b></a>
+  <a href="https://github.com/GaguliChamathkara/Industry-solutions/blob/main/Business_Studies_Group_Assigment_GPV_Company_Final_report_22.2_batch.pdf"/><b>Solution to GPV Lanka Pvt. (Ltd) </b></a>
  <br> - [A group project with HTML, CSS, JavaScript, PHP and MYSQL]
    <br> <br>
  
